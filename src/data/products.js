@@ -18,30 +18,46 @@ export const products = [
     imageAlt: "OsteoAid",
     relatedProducts: [2, 3],
     about: `
+    <p>Fituesi i medaljes së art si suplementi i vitit 2021</p>
     <p>
-      Natyrale, (proces i prodhimit ekologjik, i lirë nga kimikatet në PMP bimë, në përputhje me standardet strikte të FDA). </br>
-      Lehtë për t'u përdorur - vetëm një kapsulë në ditë. </br>
-      Profili i shkëlqyeshëm i sigurisë.  </br>
+        ΝΕΜ® (Membrana e guacës së vezës natyrore)
     </p>
     <p>
-      Membrana e vezës natyrore, i nënshtrohet një metode përpunimi të çertifikuar, të teknologjisë së lartë.  </br>
-      Efektiviteti i provuar në studimet klinike për zvogëlimin e dhimbjeve dhe ngurtësisë, si dhe në mbrojtjen e kërcit. </br>
-      Rezultate të dukshme në vetëm 7 deri në 10 ditë
+        Multivitaminë natyrale për kockat, kërcet dhe nyjet. </br>
+        Proces i prodhimit ekologjik, i lirë nga kimikatet në PMP bimë, në përputhje me standardet strikte të FDA. 
+        Membrana e vezës natyrore, i nënshtrohet një metode përpunimi të çertifikuar, të teknologjisë së lartë. </br>
+        Falë kësaj metode ka një kombinim ideal të substancave që ekzistojnë në trupin e njeriut dhe mund të shfrytëzohen prej tij.
+        Lehtë për t'u përdorur - vetëm një kapsulë në ditë.
+        Profili i shkëlqyeshëm i sigurisë.
+        Efektiviteti i provuar në studimet klinike për  zvogëlimin e dhimbjeve dhe ngurtësisë, si dhe në mbrojtjen e kërcit. </br>
+    </p>
+    <p>
+        Rezultate të dukshme në vetëm 7 deri në 10 ditë.
     </p>
       `,
     fields: {
       Capsules: "30",
       Usage: "1 tablete ne dite",
-      Ingredients: `<ul> 
-                      <li><strong>Acidi hialuronik</strong></li> 
-                      <li><strong>Glucosaminë</strong></li> 
-                    </ul>`,
+      Ingredients: `
+                    <p>
+                      500mg NEM® (membrana natyrale e guacës së vezës). </br>
+                      Analiza ka identifikuar substancat e mëposhtme në përmasa ideale:
+                    </p>
+                    </br>
+                    <p>
+                      <ul> 
+                        <li><strong>Acidi hialuronik</strong></li> 
+                        <li><strong>Glucosaminë</strong></li> 
+                        <li><strong>Sulfat i kondroitit</strong></li> 
+                        <li><strong>Kolagjen</strong></li> 
+                      </ul>
+                    </p>`,
       Recommended: `
-          Për njerëzit me problem të lidhura me moshën, mbipeshës si dhe gratë postmonopauzë.  </br>
-          Të moshuar mbi 65 vjeç me probleme në nyje, kardiovaskulare dhe gastrointestinal.</br>
-          Njerëz me rrezik në rritje nga probleme të përgjithëshme. </br>
-          Njerëz me aktivitet të lartë fizik, që vënë nën presion të forte nyjet dhe kërrcet, (p.sh. vrapues, lojtarë basketbolli, etj).</br>
-          Njerëz me probleme të përgjithëshme për shkak të mbipeshës.</br>
+          Për njerëzit me problem me kockat, kërcet dhe nyjet, ( të moshuarit, gratë postmonopauzë, njerëz me problem kardiovaskulare dhe gastrointestinal etj) </br>
+          Të gjithë që kryejn punë të rënda fizike</br>
+          Njerëz me rrezik në rritje nga probleme të përgjithshme </br>
+          Njerëz me aktivitet të lartë fizik, që venë nën presion të fortë nyjet dhe kërcet, (p.sh. vrapues, lojtarë basketbolli, etj)</br>
+          Njerëz me probleme të përgjithëshme për shkak të mbipeshës</br>
       `,
     },
   },
