@@ -12,7 +12,7 @@ export const contacts = [
     title: "Chief Executive Operator",
     role: "ceo",
     email: "afrimsite78@gmail.com",
-    telephone: "+355694788556",
+    telephone: "+355697792633",
     imageUrl: "../images/contacts/avatar.png",
   },
   {
@@ -28,7 +28,7 @@ export const contacts = [
     title: "Chief Technology Officer",
     role: "cto",
     email: "r@example.com",
-    telephone: "+1-202-555-0170",
+    telephone: "+355694788556",
     imageUrl: "../images/contacts/avatar.png",
   },
   // More people...
