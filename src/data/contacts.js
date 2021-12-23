@@ -5,7 +5,7 @@ export const contacts = [
     role: "marketing",
     email: "caushiolsi2@gmail.com",
     telephone: "+355675545099",
-    imageUrl: "../images/contacts/avatar1.png",
+    imageUrl: "../images/contacts/avatar.png",
   },
   {
     name: "Afrim Site",
