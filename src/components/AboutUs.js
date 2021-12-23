@@ -135,7 +135,7 @@ export default function AboutUs() {
                   <p className="text-white font-semibold sm:inline">
                     Nikola Ndoni
                   </p>{" "}
-                  <p className="sm:inline">CEO at Gentius</p>
+                  <p className="sm:inline">Manager at Gentius</p>
                 </span>
               </cite>
             </blockquote>
