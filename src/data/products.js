@@ -839,7 +839,7 @@ export const products = [
     isAvailable: 1,
     vendor: "pharmalead",
     rating: 4,
-    topProduct: 0,
+    topProduct: 1,
     description: "Oral spray for grown ups",
     name: "Oral Spray",
     category: "cold",
@@ -1015,7 +1015,7 @@ export const products = [
     isAvailable: 1,
     vendor: "pharmalead",
     rating: 4,
-    topProduct: 1,
+    topProduct: 0,
     description:
       "Maintaining the normal function of the immune system, protecting cells from oxidative stress, helping reduce fatiogue and tiredness.",
     name: "Vitamin C Plus 1500mg",
@@ -2021,7 +2021,7 @@ export const products = [
     isAvailable: 1,
     vendor: "vian",
     rating: 1,
-    topProduct: 1,
+    topProduct: 0,
     description:
       "A suplement that fully meets the needs for stimulation and energy",
     name: "Tonotil Plus",
