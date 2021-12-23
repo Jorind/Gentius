@@ -59,6 +59,7 @@ const filters = [
       { value: "wellness", label: "Wellness & Care", checked: false },
       { value: "babycare", label: "Baby Care", checked: false },
       { value: "selfhealing", label: "Self Healing", checked: false },
+      { value: "antibiotics", label: "Antibiotics", checked: false },
     ],
   },
 ];
