@@ -1,36 +1,35 @@
 export const contacts = [
   {
     name: "Olsi Caushaj",
-    title: "Paradigm Representative",
-    role: "Admin",
+    title: "Marketing Director",
+    role: "marketing",
     email: "caushiolsi2@gmail.com",
     telephone: "+355675545099",
     imageUrl: "../images/contacts/avatar.png",
   },
   {
     name: "Afrim Site",
-    title: "Administrator",
-    role: "Admin",
+    title: "Chief Executive Operator",
+    role: "ceo",
     email: "afrimsite78@gmail.com",
     telephone: "+355694788556",
     imageUrl: "../images/contacts/avatar.png",
   },
   {
     name: "Nikola Ndoni",
-    title: "Paradigm Representative",
-    role: "Admin",
+    title: "Overall Manager",
+    role: "manager",
     email: "nikolandoni@gmail.com",
     telephone: "+355693926837",
     imageUrl: "../images/contacts/avatar.png",
   },
-  // {
-  //   name: "Aurel Plasa",
-  //   title: "Paradigm Representative",
-  //   role: "Admin",
-  //   email: "r@example.com",
-  //   telephone: "+1-202-555-0170",
-  //   imageUrl:
-  //     "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
-  // },
+  {
+    name: "Jorind Plasa",
+    title: "Chief Technology Officer",
+    role: "cto",
+    email: "r@example.com",
+    telephone: "+1-202-555-0170",
+    imageUrl: "../images/contacts/avatar.png",
+  },
   // More people...
 ];
