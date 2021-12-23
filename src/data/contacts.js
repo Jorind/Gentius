@@ -5,7 +5,7 @@ export const contacts = [
     role: "marketing",
     email: "caushiolsi2@gmail.com",
     telephone: "+355675545099",
-    imageUrl: "../images/contacts/avatar.png",
+    imageUrl: "../images/contacts/avatar1.png",
   },
   {
     name: "Afrim Site",
@@ -13,7 +13,7 @@ export const contacts = [
     role: "ceo",
     email: "afrimsite78@gmail.com",
     telephone: "+355697792633",
-    imageUrl: "../images/contacts/avatar.png",
+    imageUrl: "../images/contacts/avatar2.png",
   },
   {
     name: "Nikola Ndoni",
@@ -21,7 +21,7 @@ export const contacts = [
     role: "manager",
     email: "nikolandoni@gmail.com",
     telephone: "+355693926837",
-    imageUrl: "../images/contacts/avatar.png",
+    imageUrl: "../images/contacts/avatar3.jpg",
   },
   {
     name: "Jorind Plasa",
@@ -29,7 +29,7 @@ export const contacts = [
     role: "cto",
     email: "r@example.com",
     telephone: "+355694788556",
-    imageUrl: "../images/contacts/avatar.png",
+    imageUrl: "../images/contacts/avatar4.png",
   },
   // More people...
 ];
