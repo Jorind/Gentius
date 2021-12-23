@@ -13,7 +13,7 @@ export const contacts = [
     role: "Admin",
     email: "afrimsite78@gmail.com",
     telephone: "+355694788556",
-    imageUrl: "../images/products/avatar.png",
+    imageUrl: "../images/contacts/avatar.png",
   },
   {
     name: "Nikola Ndoni",
@@ -21,7 +21,7 @@ export const contacts = [
     role: "Admin",
     email: "nikolandoni@gmail.com",
     telephone: "+355693926837",
-    imageUrl: "../images/products/avatar.png",
+    imageUrl: "../images/contacts/avatar.png",
   },
   // {
   //   name: "Aurel Plasa",
