@@ -1946,7 +1946,7 @@ export const products = [
     description:
       "A suplement that fully meets the needs for stimulation and energy",
     name: "Tonotil",
-    category: "women",
+    category: "enhancement",
     newest: 51,
     href: "/details/51",
     price: "$35",
@@ -2025,7 +2025,7 @@ export const products = [
     description:
       "A suplement that fully meets the needs for stimulation and energy",
     name: "Tonotil Plus",
-    category: "women",
+    category: "enhancement",
     newest: 52,
     href: "/details/52",
     price: "$35",
