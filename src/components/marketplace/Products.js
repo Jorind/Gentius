@@ -55,6 +55,10 @@ const filters = [
       { value: "stress", label: "Stress & Insomnia", checked: false },
       { value: "weight", label: "Weight Management", checked: false },
       { value: "women", label: "Women's Health", checked: false },
+      { value: "enhancement", label: "Enhancement & Boost", checked: false },
+      { value: "wellness", label: "Wellness & Care", checked: false },
+      { value: "babycare", label: "Baby Care", checked: false },
+      { value: "selfhealing", label: "Self Healing", checked: false },
     ],
   },
 ];
