@@ -44,7 +44,7 @@ const offices = [
   {
     id: 2,
     city: "Opening Hours",
-    address: ["M-F: 9am – 5pm", "Sat: 9am – 4pm"],
+    address: ["Mon-Fri: 9am – 5pm", "Sat: 9am – 4pm"],
   },
 ];
 const footerNavigation = {
@@ -146,12 +146,12 @@ export default function ContactUs() {
           <div className="py-24 lg:py-32">
             <div className="relative z-10 max-w-7xl mx-auto pl-4 pr-8 sm:px-6 lg:px-8">
               <h1 className="text-4xl font-extrabold tracking-tight text-warm-gray-900 sm:text-5xl lg:text-6xl">
-                Get in touch
+                We'd Love to Hear From You
               </h1>
               <p className="mt-6 text-xl text-warm-gray-500 max-w-3xl">
-                Vel nunc non ut montes, viverra tempor. Proin lectus nibh
-                phasellus morbi non morbi. In elementum urna ut volutpat.
-                Sagittis et vel et fermentum amet consequat.
+                Weather you are curious about new products or a more detailed
+                explanation of how your health benefits from our supplements
+                --we're ready to answer any and all questions.
               </p>
             </div>
           </div>
@@ -312,11 +312,11 @@ export default function ContactUs() {
                     </svg>
                   </div>
                   <h3 className="text-lg font-medium text-white">
-                    Contact information
+                    Let's start a conversation
                   </h3>
                   <p className="mt-6 text-base text-teal-50 max-w-3xl">
-                    Nullam risus blandit ac aliquam justo ipsum. Quam mauris
-                    volutpat massa dictumst amet. Sapien tortor lacus arcu.
+                    Our door is always open for a good chat over a healthy
+                    lifestyle
                   </p>
                   <dl className="mt-8 space-y-6">
                     <dt>
@@ -542,12 +542,11 @@ export default function ContactUs() {
               id="offices-heading"
               className="text-3xl font-extrabold text-warm-gray-900"
             >
-              Our offices
+              We are here
             </h2>
             <p className="mt-6 text-lg text-warm-gray-500 max-w-3xl">
-              Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate
-              id malesuada non. Cras aliquet purus dui laoreet diam sed lacus,
-              fames.
+              Find our offices below, and pay us a visit at your earliest
+              convenience.
             </p>
             <div className="mt-10 grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-4">
               {offices.map((office) => (
