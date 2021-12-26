@@ -382,13 +382,19 @@ export default function ContactUs() {
                       </a>
                     </li>
                     <li>
-                      <a className="text-teal-200 hover:text-teal-100" href="#">
+                      <a
+                        className="text-teal-200 hover:text-teal-100"
+                        href="https://g.page/gentius-shpk?share"
+                      >
                         <span className="sr-only">Maps</span>
                         <svg
-                          className="w-7 h-7"
-                          aria-hidden="true"
-                          fill="currentColor"
-                          viewBox="0 0 24 24"
+                          xmlns="http://www.w3.org/2000/svg"
+                          x="0px"
+                          y="0px"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 48 48"
+                          fill="#000000;"
                         >
                           <path
                             fill="#48b564"
