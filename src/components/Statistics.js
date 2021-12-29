@@ -39,7 +39,7 @@ export default function Statistics() {
                     Partnerships
                   </dt>
                   <dd className="order-1 text-5xl font-extrabold text-indigo-600">
-                    6+
+                    7+
                   </dd>
                 </div>
               </dl>
