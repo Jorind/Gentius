@@ -2267,7 +2267,7 @@ export const products = [
     newest: 56,
     href: "/details/56",
     price: "$35",
-    imageSrc: "../images/products/bon-appetite.jpg",
+    imageSrc: "../images/products/bon-appetite.JPG",
     coverImageUrl: "../images/background/bon-appetite.jpg",
     imageAlt: "Bon Appetite",
     relatedProducts: [55],
