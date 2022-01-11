@@ -2125,11 +2125,11 @@ export const products = [
     </p>
     <p>
       Pricefil 500mg përdoret për kurimin:
-      Infeksionet e traktit të poshtëm të frymëmarrjes: Bronkit: Pneumoni akute; Infeksionet e traktit të sipërm respirator; Sinusiti, Faringjiti; Amedaniti Mediat otitike akute; Infeksionet e lëkurës dhe indeve të buta; Infeksionet e traktit urinar pa komplikime.
+      Infeksionet e traktit të poshtëm të frymëmarrjes; Bronkit: Pneumoni akute; Infeksionet e traktit të sipërm respirator; Sinusiti; Faringjiti; Amedaniti Mediat otitike akute; Infeksionet e lëkurës dhe indeve të buta; Infeksionet e traktit urinar pa komplikime.
     </p>
     `,
     fields: {
-      Box: "Kuti me 1 blister x 12 tableta të veshura me film",
+      Box: "Kuti me 1 blister x 12 tableta të veshura me film",      
       Recommended: `<ul> 
       <li>
             <strong> Infeksionet e lëkurës dhe indeve të buta</strong>
@@ -2179,20 +2179,20 @@ export const products = [
     relatedProducts: [53],
     about: `
     <p>
-       Pricefil është një ilaç që përbërësi aktiv i të cilit është Cefprozil, një antibiotik i cefalosporinës i gjeneratës së dytë monohydrate që tregohet për trajtimin e pacientëve të infektuar me infeksione të shkaktuara nga shtame të ndryshme: S. Pneumoniae, H. Influenzae, safilokoket,S. Pyogenes (frupi beta-betastreptokokët hemolitikë). 
+       Pricefil është një ilaç që përbërësi aktiv i të cilit është Cefprozil, një antibiotik i cefalosporinës i gjeneratës së dytë monohydrate që tregohet për trajtimin e pacientëve të infektuar me infeksione të shkaktuara nga shtame të ndryshme: S. Pneumoniae, H. Influenzae, safilokoket, S. Pyogenes (frupi beta-betastreptokokët hemolitikë). 
     </p>
     <p>
        Pricefil pluhur për solucion të pijshëm 250mg/5ml përdoret për kurimin: Infeksionet e traktit të poshtëm të frymëmarrjes: Bronkit;  Pneumoni akute; Infeksionet e traktit të sipërm respirator; Sinusiti; Faringjiti; Medaniti Mediat otitike akute; Infeksionet e lëkurës dhe indeve të buta; Infeksionet e traktit urinar pa komplikime.
     </p>
     <p>
-        Dozimi i ilaçit për fëmijë dhe foshnje:  Duhet të përdoret si pluhur për solucion të pijshëm.  Fëmijët nga 6 muaj deri në 12 vjeç përdorni Pricefil për të paktën 10 ditë në trajtimin e infeksioneve të shkaktuara nga streptokoku beta hemolitik . Infeksionet e traktit të sipërm respirator si faringjiti, amedaniti, sinusiti, doza e rekomanduar është 20mg / kg  1 herë në ditë ose 7.5mg / kg   2 herë në ditë. Doza e rekomanduar për otitis media është 15 mg / kg çdo 12 orë. 
+        Dozimi i ilaçit për fëmijë dhe foshnje:  Duhet të përdoret si pluhur për solucion të pijshëm.  Fëmijët nga 6 muaj deri në 12 vjeç përdorni Pricefil për të paktën 10 ditë në trajtimin e infeksioneve të shkaktuara nga streptokoku beta hemolitik. Infeksionet e traktit të sipërm respirator si faringjiti, amedaniti, sinusiti, doza e rekomanduar është 20mg / kg  1 herë në ditë ose 7.5mg / kg   2 herë në ditë. Doza e rekomanduar për otitis media është 15 mg / kg çdo 12 orë. 
         Absolutisht  mos përdorni dozën maksimale për fëmijët që tejkalojnë dozën e zakonshme për të rritur. Për fëmijët nën moshën 6 muajsh, efekti nuk është vërtetuar, këshillohuni me një mjek para përdorimit.
     </p>
     `,
     fields: {
       Box: "Kuti me 1 flakon brenda",
       Usage:
-        "Tundeni flakonin që të shkëputet pluhri nga muret. Shtojini ujë deri te vija e zezë dhe tundeni fort derisa të formohet një solucion uniform. Para çdo përdorimi të tundet fort solucioni.  Ky ilaç është si çdo ilaç tjetër që duhet të merrni me recetë të mjekut tuaj.",
+        "Tundeni flakonin që të shkëputet pluhuri nga muret. Shtojini ujë deri te vija e zezë dhe tundeni fort derisa të formohet një solucion uniform. Para çdo përdorimi të tundet fort solucioni.  Ky ilaç është si çdo ilaç tjetër që duhet të merrni me recetë të mjekut tuaj.",
     },
   },
   //pharmalead again (forgotten)
@@ -2252,6 +2252,39 @@ export const products = [
     `,
       Usage:
         "25ml (një masë) 2 orë para gjumit. Mund të pjet direkt ose i përzier me lëngje të ndryshme si çaj, ujë, kos etj",
+    },
+  },
+  {
+    id: 56,
+    isAvailable: 1,
+    vendor: "pharmalead",
+    rating: 4,
+    topProduct: 0,
+    description:
+      "Multivitaminë për fëmijë me mjaltë Manuka",
+    name: "Bon Appetite",
+    category: "wellness",
+    newest: 56,
+    href: "/details/56",
+    price: "$35",
+    imageSrc: "../images/products/bon-appetite.JPG",
+    coverImageUrl: "../images/background/bon-appetite.jpg",
+    imageAlt: "Bon Appetite",
+    relatedProducts: [55],
+    about: `
+    <p>
+    Shtojcë ushqimore e përshtatshme për fëmijët nga 3 vjeç e lart në një racion prej 10 ml të së cilës përmban: 
+    Mjaltë 2000 mg; FOS (frukto-oligosakaridet) 250 mg; Pelte mbretërore 50 mg; Pluhur i lëngut të farës së grurit 50 mg; Vitamina C 40 mg; Propolisi 10 mg;	Vitamina B1 (tiaminë) 1.1 mg; Vitamina B2 (riboflavin) 1.4 mg; Vitamina B3 (Niacin) 8 mg; Acid pantotenik (si Kalcium -D -pantothenat) 2 mg; Vitamina B6 1.4 mg; Vitamina B12 2.5 mcg; Acidi folik 50 mcg; Ngjyrues (si glukonat hekuri) 4.2 mg; Zink (si glukonat zinku) 3 mg; Bakri (si citrat bakri) 0.2 mg.
+    </p>
+    <p>Pa alkool, sheqer, ngjyra dhe konservantë.</p>
+    <p>
+    Me ëmbëlsues nga bima stevia. 
+    Të ruhet në temperature ambjenti në vende të thata dhe pa dritë. 
+    </p>
+    `,
+    fields: {
+      Usage:
+        "1 lugë gjelle 5 ml, 1-2 herë në ditë. Mos e tejkaloni dozën e rekomanduar.",
     },
   },
   // More products...
