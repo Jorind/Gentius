@@ -119,8 +119,8 @@ export default function AboutUs() {
                   </svg>
                   <p className="relative">
                     Health needs care.
-                    <br /> Take care of it and prevent diseases. <br />
-                    We are here to help.
+                    <br /> Take care of it and prevent diseases. We are here to
+                    help.
                   </p>
                 </div>
               </div>
