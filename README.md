@@ -32,3 +32,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Sending Emails
+For email sending, emailjs SKD is used/
+It provides a package for React. IT also provides a User Interface to manage email templates, email process ecc.
+https://www.emailjs.com/docs/introduction/how-does-emailjs-work/
+
+One drawback: The email template Id, serviceId and ApiKey are stored hardcoded in front-end code(in the API call), which makes it vulnerable.
+For our limited purposes it's ok.
+
