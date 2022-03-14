@@ -38,6 +38,7 @@ For email sending, emailjs SKD is used/
 It provides a package for React. IT also provides a User Interface to manage email templates, email process ecc.
 https://www.emailjs.com/docs/introduction/how-does-emailjs-work/
 
-One drawback: The email template Id, serviceId and ApiKey are stored hardcoded in front-end code(in the API call), which makes it vulnerable.
+One drawback: 
+The email template Id, serviceId and ApiKey are stored hardcoded in front-end code(in the API call), which makes it vulnerable.
 For our limited purposes it's ok.
 
