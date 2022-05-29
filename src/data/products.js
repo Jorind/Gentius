@@ -2334,6 +2334,173 @@ export const products = [
    </ul>`,
     },
   },
+  {
+    id: 58,
+    isAvailable: 1,
+    vendor: "pharmalead",
+    rating: 4,
+    topProduct: 0,
+    description:
+      "Xhel i përshtatshëm për djegie të lehta nga dielli ose nxehtësi dhe acarime të lehta sipërfaqësore të lëkurës. ",
+    name: "First Aid Gel",
+    category: "wellness",
+    newest: 58,
+    href: "/details/58",
+    price: "$35",
+    imageSrc: "../images/products/first-aid-gel.png",
+    coverImageUrl: "../images/background/first-aid-gel.jpg",
+    imageAlt: "First Aid Gel",
+    relatedProducts: [57],
+    about: `
+    <p>
+       Përbërësit e tij të vlefshëm krijojnë një shtresë mbrojtëse dhe i japin një ndjesi të këndshme freskie dhe lehtësimi lëkurës së skuqur/irrituar.
+    </p>
+    <p>
+      Nuk bllokon poret dhe nuk bllokon djersitjen natyrale.     
+    </p>
+    <p>
+      Thahet menjëherë  duke mos lënë mbetje dhe njolla.
+    </p>
+    `,
+    fields: {
+      Usage: `Aplikojeni produktin me lëvizje rrethore në zonën e dëshiruar.<br/>
+              Mos e aplikoni në lëkurë të hapur.<br/>
+              Vetëm për përdorim të jashtëm`,
+      Ingredients: `<ul> 
+          <li>
+            <strong> Ekstrakti i timolës </strong>
+            <p>
+             Rrjedh nga gjethet e bimës Bulbine Frutescens, një bimë vendase e Afrikës së Jugut, e përdorur tradicionalisht si një ndihmë e parë për lëkurën e irrituar. 
+            </p>
+          </li> 
+          <li>
+            <strong> Vaji i pemës së çajit:  </strong>
+            <p> 
+               Është vaj jashtëzakonisht efektiv dhe i gjithanshëm me veti antiseptike, antimikrobike dhe anti-inflamatore.
+            </p>
+          </li> 
+          <li>
+          <strong> Acidi hialuronik  </strong>
+          <p> 
+            Kontribuon në prodhimin e kolagjenit dhe rrit elasticitetin dhe rinovimin e lëkurës.
+          </p>
+        </li> 
+
+        <li>
+        <strong> Βisabolon  </strong>
+        <p> 
+          Përbërës natyral me aktivitet qetësues dhe të butë antimikrobik, ideal për lëkurën e irrituar ose të ndjeshme. 
+        </p>
+      </li> 
+
+    <li>
+      <strong> Panthenol  </strong>
+      <p> 
+        Aftësitë e tij hidratuese janë ideale për kujdesin e lëkurës së dehidratuar dhe të irrituar. 
+      </p>
+    </li> 
+    <li>
+      <strong> Vaji i Kalendulës  </strong>
+      <p> 
+        Është i pasur me përbërës me efekt antioksidues dhe qetësues.
+      </p>
+    </li> 
+
+
+   </ul>`,
+    },
+  },
+  {
+    id: 59,
+    isAvailable: 1,
+    vendor: "pharmalead",
+    rating: 4,
+    topProduct: 0,
+    description: "Krem per lehtesimin e cdo lloj dhimbje muskulore ",
+    name: "Hot Power Cream",
+    category: "wellness",
+    newest: 59,
+    href: "/details/59",
+    price: "$35",
+    imageSrc: "../images/products/hot-power-cream.png",
+    coverImageUrl: "../images/background/hot-power-cream.jpg",
+    imageAlt: "Hot Power Cream",
+    relatedProducts: [57, 58],
+    about: `
+    <p>
+      Për më tepër, mentoli, vaji i eukaliptit, vaji i karafilit, ekstrakti i trumzës dhe arnicës.  <br/>
+      Krem trupi i krijuar posaçërisht me përbërës bimorë që kanë veti analgjezike dhe relaksuese të muskujve. <br/>
+      Ndihmon në lehtësimin e menjëhershëm nga çdo lloj shqetësimi të muskujve (ftohje, grip, shtrëngim, tërheqje, ngërçe, ndrydhje, thyerje, zhvendosje). <br/>
+    </p>
+    <p>
+    I përshtatshëm për aplikime lokale dhe në të gjithë trupin. Ideale edhe për atletët për t'u nxehur. 
+    </p>
+    `,
+    fields: {
+      Usage: `Aplikoni 2- 3 herë në ditë në zonën ku është problemi (qafa, shpatullat, krahët, beli, gjunjët, këmbët) një sasi të kremit dhe masazhojeni lehtë. `,
+      Ingredients: `<ul> 
+          <li>
+            <strong> Vaj  piperi djegës </strong>
+            <p>
+              i cili përmirëson qarkullimin e gjakut dhe krijimin e nxehtësisë intensive në pjesët e dhimbshme të trupit, duke ofruar kështu lehtësim dhe rehati afatgjatë
+            </p>
+          </li> 
+          <li>
+            <strong> Mentol, vaj eukalipt, vaj karafil, ekstrakt i trumzës dhe arnikës  </strong>
+            <p> 
+              janë përbërës të njohur për vetitë e tyre analgjezike, qetësuese dhe stimuluese.
+            </p>
+          </li> 
+   </ul>`,
+    },
+  },
+  {
+    id: 60,
+    isAvailable: 1,
+    vendor: "pharmalead",
+    rating: 4,
+    topProduct: 0,
+    description:
+      "Spray kundër insekteve për mizave dhe mushkonjat, duke përfshirë mushkonjat aziatike tiger. ",
+    name: "Insect Repellent Spray",
+    category: "wellness",
+    newest: 60,
+    href: "/details/60",
+    price: "$35",
+    imageSrc: "../images/products/insect-repellent-spray.png",
+    coverImageUrl: "../images/background/insect-repellent-spray.jpg",
+    imageAlt: "Insect Repellent Spray",
+    relatedProducts: [58, 59],
+    about: `
+    <p>
+      Me përbërje efektive, bazuar në përbërësin aktiv vaj Eucalyptus citriodora, me origjinë natyrale me veprim të provuar kundër insekteve. 
+    </p>
+    <p>
+      Për më tepër, kombinimi i 5 vajrave esencialë natyralë që përmban (barbarozë, nenexhik, eukalipt, livando dhe bima e borzilokut) mbron dhe trajton lëkurën. 
+    </p>
+    <p>
+      Vepron deri në 5 orë, pa lënë gjurmë vajore. <br/>
+      Me aromë të këndshme, për të gjithë familjen.
+      </p>
+    `,
+    fields: {
+      Bottle: `100ml `,
+      Ingredients: `<ul> 
+          <li>
+            <strong> Vaj eukalipt citriodora </strong>
+            <p>
+              i cili përmirëson qarkullimin e gjakut dhe krijimin e nxehtësisë intensive në pjesët e dhimbshme të trupit, duke ofruar kështu lehtësim dhe rehati afatgjatë
+            </p>
+          </li> 
+          <li>
+            <strong> Mentol, vaj eukalipt, vaj karafil, ekstrakt i trumzës dhe arnikës  </strong>
+            <p> 
+              janë përbërës të njohur për vetitë e tyre analgjezike, qetësuese dhe stimuluese.
+            </p>
+          </li> 
+   </ul>`,
+    },
+  },
 
   // More products...
 ];
