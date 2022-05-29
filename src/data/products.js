@@ -2129,7 +2129,7 @@ export const products = [
     </p>
     `,
     fields: {
-      Box: "Kuti me 1 blister x 12 tableta të veshura me film",      
+      Box: "Kuti me 1 blister x 12 tableta të veshura me film",
       Recommended: `<ul> 
       <li>
             <strong> Infeksionet e lëkurës dhe indeve të buta</strong>
@@ -2260,8 +2260,7 @@ export const products = [
     vendor: "pharmalead",
     rating: 4,
     topProduct: 0,
-    description:
-      "Multivitaminë për fëmijë me mjaltë Manuka",
+    description: "Multivitaminë për fëmijë me mjaltë Manuka",
     name: "Bon Appetite",
     category: "wellness",
     newest: 56,
@@ -2287,5 +2286,54 @@ export const products = [
         "1 lugë gjelle 5 ml, 1-2 herë në ditë. Mos e tejkaloni dozën e rekomanduar.",
     },
   },
+  {
+    id: 57,
+    isAvailable: 1,
+    vendor: "pharmalead",
+    rating: 4,
+    topProduct: 0,
+    description: "Deodorant për lëkurë e freskët, mbrojtur dhe të aromatizuar.",
+    name: "Deo Roll-On",
+    category: "wellness",
+    newest: 57,
+    href: "/details/57",
+    price: "$35",
+    imageSrc: "../images/products/bon-appetite.JPG",
+    coverImageUrl: "../images/background/bon-appetite.jpg",
+    imageAlt: "Deo Roll-On",
+    relatedProducts: [56],
+    about: `
+    <p>
+      Roll-on deodorant kremoz i pasur me përbërës antibakterialë, jashtëzakonisht i butë dhe shumë efektiv kundër erës. <br/>
+      I përshtatshëm edhe për lëkurën më të ndjeshme. 
+      Falë përbërjes së tij të pasur me përbërës natyralë, është shumë efektiv kundër baktereve përgjegjëse për erën. 
+    </p>
+    <p>
+      Nuk bllokon poret dhe nuk bllokon djersitjen natyrale.     
+    </p>
+    <p>
+      Thahet menjëherë  duke mos lënë mbetje dhe njolla.
+    </p>
+    `,
+    fields: {
+      Bottle: "50ml",
+      Ingredients: `<ul> 
+          <li>
+            <strong> Panthenoli dhe glicerina </strong>
+            <p>
+              zbutin dhe hidratojnë lëkurën, qetësojnë irritimet. 
+            </p>
+          </li> 
+          <li>
+            <strong> Ekstrakti i çajit jeshil dhe ekstrakti i balsamit </strong>
+            <p> 
+              trajtojnë lëkurën falë vetive astringente, antioksidante dhe tonike. 
+            </p>
+          </li> 
+
+   </ul>`,
+    },
+  },
+
   // More products...
 ];
