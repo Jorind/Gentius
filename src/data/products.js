@@ -2298,8 +2298,8 @@ export const products = [
     newest: 57,
     href: "/details/57",
     price: "$35",
-    imageSrc: "../images/products/bon-appetite.JPG",
-    coverImageUrl: "../images/background/bon-appetite.jpg",
+    imageSrc: "../images/products/deo-roll-on.png",
+    coverImageUrl: "../images/background/deo-roll-on.jpg",
     imageAlt: "Deo Roll-On",
     relatedProducts: [56],
     about: `
