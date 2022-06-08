@@ -2501,6 +2501,44 @@ export const products = [
    </ul>`,
     },
   },
+  {
+    id: 61,
+    isAvailable: 1,
+    vendor: "pharmalead",
+    rating: 4,
+    topProduct: 0,
+    description: "",
+    name: "Krem Këmbësh",
+    category: "wellness",
+    newest: 61,
+    href: "/details/61",
+    price: "$35",
+    imageSrc: "../images/products/insect-repellent-spray.png",
+    coverImageUrl: "../images/background/insect-repellent-spray.jpg",
+    imageAlt: "Insect Repellent Spray",
+    relatedProducts: [60],
+    about: `
+    <p>
+      Kombinimi i uresë, glicerinës dhe vitaminës E ofron hidratim të pasur duke luftuar lëkurën e thatë dhe të ngurtësuar.  
+    </p>
+    <p>
+      Për më tepër, vaji i Abisinisë (i pasur me acide yndyrore Omega 3), si dhe vajra të ndryshëm bimorë, mbrojnë lëkurën nga radikalet e lira dhe oksidimi dhe sigurojnë butësi dhe strukturë të mëndafshtë. 
+    </p>
+    <p>
+      Jashtëzakonisht efektiv në rastet e erës së këmbëve dhe infeksioneve mykotike. 
+    </p>
+    <p>
+       Përmban përbërës me veti intensive hidratuese dhe zbutëse që rivendosin ekuilibrin natyral të lëkurës. <br/>
+       I testuar dermatologjikisht<br/>
+       Pa parabene<br/>
+       Pa vaj mineral </br>
+    </p>
+    
+    `,
+    fields: {
+      Bottle: `75ml `,
+    },
+  },
 
   // More products...
 ];
