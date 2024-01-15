@@ -7,7 +7,7 @@ export const products = [
     rating: 3,
     rating: 3,
     topProduct: 1,
-    description: "Supplements Award 2021. Test Demo",
+    description: "Supplements Award 2021.",
     name: "OsteoAid",
     category: "joint",
     newest: 1,
