@@ -17,46 +17,53 @@ export const products = [
     coverImageUrl: "../images/background/osteoaid.jpg",
     imageAlt: "OsteoAid",
     relatedProducts: [2, 3],
-    about: `
-    <p>Fituesi i medaljes së art si suplementi i vitit 2021</p>
-    <p>
-        ΝΕΜ® (Membrana e guacës së vezës natyrore)
-    </p>
-    <p>
-        Multivitaminë natyrale për kockat, kërcet dhe nyjet. </br>
-        Proces i prodhimit ekologjik, i lirë nga kimikatet në PMP bimë, në përputhje me standardet strikte të FDA. 
-        Membrana e vezës natyrore, i nënshtrohet një metode përpunimi të çertifikuar, të teknologjisë së lartë. </br>
-        Falë kësaj metode ka një kombinim ideal të substancave që ekzistojnë në trupin e njeriut dhe mund të shfrytëzohen prej tij.
-        Lehtë për t'u përdorur - vetëm një kapsulë në ditë.
-        Profili i shkëlqyeshëm i sigurisë.
-        Efektiviteti i provuar në studimet klinike për  zvogëlimin e dhimbjeve dhe ngurtësisë, si dhe në mbrojtjen e kërcit. </br>
-    </p>
-    <p>
-        Rezultate të dukshme në vetëm 7 deri në 10 ditë.
-    </p>
-      `,
+    about: ``,
     fields: {
       Paketimi: "30 kapsula",
       Përdorimi: "1 tabletë në ditë",
       Përbërësit: `
                     <p>
                       <ul> 
-                        <li><strong>-	500mg NEM® (membrana natyrale e lëvozhgës së vezës)</strong></li>
-                        <li><strong>-	Acid Hyaluronic</strong></li> 
-                        <li><strong>-	Glucosaminë</strong></li> 
-                        <li><strong>-	Sulfat kondroitine</strong></li> 
-                        <li><strong>-	Kolagjen</strong></li> 
-                        <li><strong>-	Sulfat mangani 2 mg</strong></li>                        
+                        <li><strong>&emsp;-	500mg NEM® (membrana natyrale e lëvozhgës së vezës)</strong></li>
+                        <li><strong>&emsp;-	Acid Hyaluronic</strong></li> 
+                        <li><strong>&emsp;-	Glucosaminë</strong></li> 
+                        <li><strong>&emsp;-	Sulfat kondroitine</strong></li> 
+                        <li><strong>&emsp;-	Kolagjen</strong></li> 
+                        <li><strong>&emsp;-	Sulfat mangani 2 mg</strong></li>                        
                       </ul>
                     </p>
+                    <br/>
                     <span>Pa gluten, sheqer dhe sojë të shtuar.</span>
                     `,
-      Recommended: `
-          Për njerëzit me problem me kockat, kërcet dhe nyjet, ( të moshuarit, gratë postmonopauzë, njerëz me problem kardiovaskulare dhe gastrointestinal etj) </br>
-          Të gjithë që kryejn punë të rënda fizike</br>
-          Njerëz me rrezik në rritje nga probleme të përgjithshme </br>
-          Njerëz me aktivitet të lartë fizik, që venë nën presion të fortë nyjet dhe kërcet, (p.sh. vrapues, lojtarë basketbolli, etj)</br>
-          Njerëz me probleme të përgjithëshme për shkak të mbipeshës</br>
+      Rekomandohet: `
+      Osteoaid nga Superfoods është një formulë që ndihmon në shëndetin e kyçeve, duke pasur një efekt të dobishëm në uljen e dhimbjes, ngurtësimin dhe mbrojtjen e kërcit. </br></br>
+      Veprimi i Osteoaid-it bazohet në elementin NEM (Natural Eggsell Membrane), i cili vjen nga membrana e lëvozhgës së vezës. Është një burim i pasur i acidit hialuronik, glukozaminës, sulfatit të kondroitinës dhe kolagjenit, elementë që janë përbërës strukturorë të kyçeve, indit lidhës dhe kërcit. Ato ndihmojnë në ruajtjen e fleksibilitetit dhe lëvizshmërisë së kyçeve, duke ndihmuar në uljen e dhimbjes dhe ngurtësimit. </br></br>
+      I përshtatshëm për personat me probleme kyçesh p.sh. për shkak të moshës, mbipeshës dhe për ata që tendosin kyçet dhe kërcin me aktivitet fizik intensiv (p.sh. atletët). </br></br>
+      Të gjithë personat që kryejnë punë të rënda fizike.</br>
+      Njerëz me rrezik në rritje nga probleme të përgjithshme.</br>
+      Njerëz me aktivitet të lartë fizik, që venë nën presion të fortë nyjet dhe kërcet, (p.sh. vrapues, lojtarë basketbolli, etj)</br>
+      Njerëz me probleme të përgjithëshme për shkak të mbipeshës.</br>
+      `,
+      "Të dhëna për OSTEOAID": `      
+          <p>Fituesi i medaljes së artë si suplementi i vitit 2021</p>
+          <br/>
+          <p>
+            ΝΕΜ® (Membrana e lëvozhgës së vezës natyrale)
+          </p>
+          </br>
+          <p>
+              Multivitaminë natyrale për kockat, kërcet dhe nyjet. </br>
+              Proces i prodhimit ekologjik, i lirë nga kimikatet në PMP bimë, në përputhje me standardet strikte të FDA. 
+              Membrana e vezës natyrore, i nënshtrohet një metode përpunimi të çertifikuar, të teknologjisë së lartë. </br>
+              Falë kësaj metode ka një kombinim ideal të substancave që ekzistojnë në trupin e njeriut dhe mund të shfrytëzohen prej tij.
+              Lehtë për t'u përdorur - vetëm një kapsulë në ditë.
+              Profili i shkëlqyeshëm i sigurisë.
+              Efektiviteti i provuar në studimet klinike për zvogëlimin e dhimbjeve dhe ngurtësisë, si dhe në mbrojtjen e kërcit. </br>
+          </p>
+          </br>
+          <p>
+              Rezultate të dukshme në vetëm 7 deri në 10 ditë.
+          </p>
       `,
     },
   },
@@ -1839,7 +1846,7 @@ export const products = [
       Tablets: "30",
       Benefits: `<ul> 
       <li>
-        Energjia dhe metabolizmi përmes kalciumit, bashkëpunimit, jodit, hekurit, magnezit, manganit, niacinës, acidit panthotenik dhe vitaminave B1, B2, B6, B12 & C
+        Energjia dhe metabolizmi përmes kalciumit, bashk����punimit, jodit, hekurit, magnezit, manganit, niacinës, acidit panthotenik dhe vitaminave B1, B2, B6, B12 & C
       </li>         
       <li>
          Përmirësues i sistemit imunitar me ndihmën e zinkut, selenit, acidit folik, bashkëpunimit, hekurit dhe vitaminave A, B6, B12, C, D3.
