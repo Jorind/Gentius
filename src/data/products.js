@@ -36,22 +36,21 @@ export const products = [
     </p>
       `,
     fields: {
-      Capsules: "30",
-      Usage: "1 tablete ne dite",
-      Ingredients: `
-                    <p>
-                      500mg NEM® (membrana natyrale e guacës së vezës). </br>
-                      Analiza ka identifikuar substancat e mëposhtme në përmasa ideale:
-                    </p>
-                    </br>
+      Paketimi: "30 kapsula",
+      Përdorimi: "1 tabletë në ditë",
+      Përbërësit: `
                     <p>
                       <ul> 
-                        <li><strong>Acidi hialuronik</strong></li> 
-                        <li><strong>Glucosaminë</strong></li> 
-                        <li><strong>Sulfat i kondroitit</strong></li> 
-                        <li><strong>Kolagjen</strong></li> 
+                        <li><strong>-	500mg NEM® (membrana natyrale e lëvozhgës së vezës)</strong></li>
+                        <li><strong>-	Acid Hyaluronic</strong></li> 
+                        <li><strong>-	Glucosaminë</strong></li> 
+                        <li><strong>-	Sulfat kondroitine</strong></li> 
+                        <li><strong>-	Kolagjen</strong></li> 
+                        <li><strong>-	Sulfat mangani 2 mg</strong></li>                        
                       </ul>
-                    </p>`,
+                    </p>
+                    <span>Pa gluten, sheqer dhe sojë të shtuar.</span>
+                    `,
       Recommended: `
           Për njerëzit me problem me kockat, kërcet dhe nyjet, ( të moshuarit, gratë postmonopauzë, njerëz me problem kardiovaskulare dhe gastrointestinal etj) </br>
           Të gjithë që kryejn punë të rënda fizike</br>
@@ -1778,7 +1777,7 @@ export const products = [
     relatedProducts: [32, 33],
     about: `
     <p>
-      Diosmin është një lloj ekstrakti  bimor që gjendet kryesisht tek agrumet.  Ajo përdoret për trajtimin e çrregullimeve të ndryshme të enëve të gjakut si hemorroide, venat me variçe, qarkullimin edobët të gjakut në këmbë (stazën venoze) dhe gjakderdhje (hemoragjinë).
+      Diosmin është një lloj ekstrakti  bimor që gjendet kryesisht tek agrumet.  Ajo përdoret për trajtimin e çrregullimeve të ndryshme të enëve të gjakut si hemorroide, venat me variçe, qarkullimin edobët të gjakut në këmbë (staz��n venoze) dhe gjakderdhje (hemoragjinë).
     </p>
     <p>
        Hesperidinështë një ekstrakt bimor që klasifikohet si një "bioflavonoid".Gjendet kryesisht tek agrumet.Hesperidin në kombinim me bioflavonoide të tjera agrumesh (diosmin, për shembull), përdoret për hemorroide,venat me variçedhe qarkullimi gjaku të dobët (staza venoze).
