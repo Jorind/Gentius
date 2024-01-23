@@ -65,6 +65,14 @@ export const products = [
               Rezultate të dukshme në vetëm 7 deri në 10 ditë.
           </p>
       `,
+      "Të tjera": `
+      Mbajeni larg fëmijëve.
+      <br/><br/>
+      Suplementet dietike nuk duhet të përdoren si zëvendësim për një dietë të ekuilibruar. Mos e tejkaloni dozën e rekomanduar ditore. Ky produkt nuk ka për qëllim parandalimin, trajtimin ose shërimin e ndonjë sëmundjeje. Konsultohuni me mjekun tuaj nëse jeni shtatzënë, ushqeni me gji, merrni medikamente te tjera ose keni ndonjë problem shëndetësor. Mund të ketë ndërveprime dhe efekte anësore të mëtejshme nga ato të listuara.
+      `,
+      Magazinimi: `
+          Mbajeni produktin në një vend të thatë dhe të freskët deri në 25°C (77°F) dhe mbrojeni nga drita. Kushtet e papërshtatshme të ruajtjes, të tilla si ekspozimi i zgjatur në rrezet e diellit, temperatura e lartë, lagështia dhe kushtet e ngrirjes, mund të rezultojnë në ndryshime të produktit.
+      `,
     },
   },
   {
@@ -1727,7 +1735,7 @@ export const products = [
     relatedProducts: [32, 33],
     about: `
     <p>
-    MODUS calm day është vitaminë bimore  në formën  tablete.  Vitamina B6 kontribuon në rregullimin e aktivitetit hormonal, për më tepër, së bashku me magnezin kontribuojnë në funksionimin normal të sistemit nervor, në funksionimin normal psikologjik dhe në uljen e lodhjes.Përbërja e përgatitjes e plotësuar me ekstrakte të vlefshme bimore.
+    MODUS calm day është vitaminë bimore  në formën  tablete.  Vitamina B6 kontribuon në rregullimin e aktivitetit hormonal, për më tepër, së bashku me magnezin kontribuojnë në funksionimin normal të sistemit nervor, në funksionimin normal psikologjik dhe në uljen e lodhjes.P��rbërja e përgatitjes e plotësuar me ekstrakte të vlefshme bimore.
     </p>
 
     `,
