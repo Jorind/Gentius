@@ -1,5 +1,7 @@
 export const products = [
   //superfood
+
+  //OsteoAid
   {
     id: 1,
     isAvailable: 1,
@@ -75,6 +77,8 @@ export const products = [
       `,
     },
   },
+
+  //Valeriana Plus
   {
     id: 2,
     isAvailable: 1,
@@ -119,6 +123,7 @@ export const products = [
       Without: "Gluten, Natriumi, Sheqer, Laktoza",
     },
   },
+  //CranbeCare
   {
     id: 3,
     isAvailable: 1,
@@ -167,6 +172,8 @@ export const products = [
       Without: "Gluten, Natriumi, Sheqer, Laktoza, Soja",
     },
   },
+
+  //Slim Detox
   {
     id: 4,
     isAvailable: 1,
@@ -215,6 +222,8 @@ export const products = [
         `,
     },
   },
+
+  //Anasa Kids
   {
     id: 5,
     isAvailable: 1,
@@ -265,6 +274,8 @@ export const products = [
       Without: "Gluten",
     },
   },
+
+  //Anasa
   {
     id: 6,
     isAvailable: 0,
@@ -283,6 +294,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Maca
   {
     id: 7,
     isAvailable: 1,
@@ -344,6 +357,8 @@ export const products = [
     `,
     },
   },
+
+  //Cinnamon Extra
   {
     id: 8,
     isAvailable: 0,
@@ -362,6 +377,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Cod Liver Oil Pure
   {
     id: 9,
     isAvailable: 0,
@@ -380,6 +397,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Echinacea x3
   {
     id: 10,
     isAvailable: 0,
@@ -398,6 +417,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Garcinia Diet
   {
     id: 11,
     isAvailable: 0,
@@ -416,6 +437,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Green Coffee
   {
     id: 12,
     isAvailable: 0,
@@ -434,6 +457,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Hippophaes Energy
   {
     id: 13,
     isAvailable: 0,
@@ -452,6 +477,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Hippophaes Papaya
   {
     id: 14,
     isAvailable: 0,
@@ -470,6 +497,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //HippoPhaes
   {
     id: 15,
     isAvailable: 0,
@@ -488,6 +517,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Hippophaes 50+
   {
     id: 16,
     isAvailable: 0,
@@ -506,6 +537,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Hippophaes Woman
   {
     id: 17,
     isAvailable: 0,
@@ -524,6 +557,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Memoact +
   {
     id: 18,
     isAvailable: 1,
@@ -612,6 +647,8 @@ export const products = [
                     </ul>`,
     },
   },
+
+  //Milk Thistle
   {
     id: 19,
     isAvailable: 0,
@@ -630,6 +667,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Odorless Garlic
   {
     id: 20,
     isAvailable: 0,
@@ -648,6 +687,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Omega Advance
   {
     id: 21,
     isAvailable: 0,
@@ -666,6 +707,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Provio Max
   {
     id: 22,
     isAvailable: 0,
@@ -684,6 +727,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Rhodiola
   {
     id: 23,
     isAvailable: 0,
@@ -702,6 +747,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Royal Jelly
   {
     id: 24,
     isAvailable: 0,
@@ -720,6 +767,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Sambucus
   {
     id: 25,
     isAvailable: 0,
@@ -738,6 +787,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //S-Form
   {
     id: 26,
     isAvailable: 0,
@@ -758,6 +809,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Sleep Mood
   {
     id: 27,
     isAvailable: 0,
@@ -776,6 +829,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Spirulina Gold
   {
     id: 28,
     isAvailable: 0,
@@ -794,6 +849,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Vitamin C
   {
     id: 29,
     isAvailable: 0,
@@ -812,6 +869,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Your Bar Strawberry
   {
     id: 30,
     isAvailable: 0,
@@ -829,6 +888,8 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
+  //Green Tea
   {
     id: 31,
     isAvailable: 0,
@@ -847,7 +908,10 @@ export const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     relatedProducts: [2, 3],
   },
+
   //pharmalead
+
+  //Oral Spray
   {
     id: 32,
     isAvailable: 1,
@@ -912,6 +976,8 @@ export const products = [
       Without: " Alkool, Gluten, Laktozë, Ngjyrues",
     },
   },
+
+  //Kids Oral Spray
   {
     id: 33,
     isAvailable: 1,
@@ -972,6 +1038,8 @@ export const products = [
       Without: " Sheqer të shtuar, Alkool, Gluten, Laktozë, Ngjyrues",
     },
   },
+
+  //Vitamin D3
   {
     id: 34,
     isAvailable: 1,
@@ -1024,6 +1092,8 @@ export const products = [
       Without: " Sheqer, Kripë, Drithëra, Gluten, Laktozë, Konservues, OMGJ",
     },
   },
+
+  //Vitamin C Plus 1500mg
   {
     id: 35,
     isAvailable: 1,
@@ -1061,6 +1131,8 @@ export const products = [
       Without: " Sheqer, Gluten, Laktozë",
     },
   },
+
+  //Magnesium With Vitamin B6 and Potassium
   {
     id: 36,
     isAvailable: 1,
@@ -1121,6 +1193,8 @@ export const products = [
     },
     Without: " Gluten, Sheqer te shtuar, Laktozë, Konservues",
   },
+
+  //Vitamin C 1000mg
   {
     id: 37,
     isAvailable: 1,
@@ -1177,6 +1251,8 @@ export const products = [
       Without: " Gluten, Laktozë, Konservues",
     },
   },
+
+  //Probiotic Advance
   {
     id: 38,
     isAvailable: 1,
@@ -1226,6 +1302,8 @@ export const products = [
       Without: " Gluten, Laktozë, Konservues",
     },
   },
+
+  //Thermo Cream
   {
     id: 39,
     isAvailable: 1,
@@ -1279,6 +1357,8 @@ export const products = [
         "Aplikoni 2-3 herë në ditë në zonën ku është problemi (qafa, shpatullat, krahët, beli, gjunjët, këmbët) një sasi të kremit dhe masazhojeni lehtë. Vetëm për përdorim të jashtëm. Mos aplikoni në plagë të hapura dhe mukozë (sy, hundë, buzë).",
     },
   },
+
+  //Haemosooth Cream
   {
     id: 40,
     isAvailable: 1,
@@ -1328,6 +1408,8 @@ export const products = [
         "Lani me ujë të vakët dhe më pas me ndihmën e aplikuesit special aplikojeni kremin pas çdo defekimi dhe para gjumit derisa simptomat të qetësohen.",
     },
   },
+
+  //Moisturizing hand cream
   {
     id: 41,
     isAvailable: 1,
@@ -1386,6 +1468,8 @@ export const products = [
         "Aplikoni kremin çdo ditë në duar dhe zonën përreth thonjve, duke masazhuar butësisht, derisa të absorbohet.",
     },
   },
+
+  //Arnica Cream
   {
     id: 42,
     isAvailable: 1,
@@ -1465,6 +1549,8 @@ export const products = [
         "Aplikojeni produktin me lëvizje rrethore në zonën që dëshironi të qetësoni dhe mbuloni.",
     },
   },
+
+  //Nyhofort
   {
     id: 43,
     isAvailable: 1,
@@ -1505,6 +1591,8 @@ export const products = [
       Without: "Konservues dhe alergjenë.",
     },
   },
+
+  //Baby Nappy Cream
   {
     id: 44,
     isAvailable: 1,
@@ -1589,6 +1677,8 @@ export const products = [
       Without: "Parabenë, Vaj mineral, Alergenë, Ngjyrues.",
     },
   },
+
+  //Baby Shampoo + Bath
   {
     id: 45,
     isAvailable: 1,
@@ -1647,7 +1737,10 @@ export const products = [
       Without: "Sapun, alkale dhe alergenë",
     },
   },
+
   //pharmalab
+
+  //VitaPreg
   {
     id: 46,
     isAvailable: 1,
@@ -1716,6 +1809,8 @@ export const products = [
       Usage: "Sipas udhezimeve të specialistit",
     },
   },
+
+  //Modus
   {
     id: 47,
     isAvailable: 1,
@@ -1774,6 +1869,8 @@ export const products = [
       Usage: "1 tabletë në ditë, ose sipas rekumandimeve të specialistit",
     },
   },
+
+  //DIOSMIN & HESPERIDIN
   {
     id: 48,
     isAvailable: 1,
@@ -1829,6 +1926,8 @@ export const products = [
       Usage: "2 herë në ditë nga një tabletë bashkë me ushqimin për 2 muaj",
     },
   },
+
+  //Multivita-Z
   {
     id: 49,
     isAvailable: 1,
@@ -1882,7 +1981,10 @@ export const products = [
       Usage: "1 në  ditë  ose sipas udhëzimeve të  specialistit",
     },
   },
+
   //dilitus
+
+  //Dilitus
   {
     id: 50,
     isAvailable: 1,
@@ -1950,7 +2052,10 @@ export const products = [
         "Për të rritur 1 lugë gjelle 3 herë në ditë. Për fëmijë 1/2 luge gjellë 3 herë në ditë.Tundet shishja mirë para përdorimit. Të mos përdoret për diabetikët.",
     },
   },
-  //vian
+
+  //Vian
+
+  //Tonotil
   {
     id: 51,
     isAvailable: 1,
@@ -2030,6 +2135,8 @@ export const products = [
       Usage: "Të rriturit dhe fëmijët mbi 10 vjeç, një shishkë para mëngjesit",
     },
   },
+
+  //Tonotil Plus
   {
     id: 52,
     isAvailable: 1,
@@ -2116,7 +2223,10 @@ export const products = [
       Usage: "Të rriturit dhe fëmijët mbi 10 vjeç, një shishkë para mëngjesit",
     },
   },
-  //vianex
+
+  //VIANEX
+
+  //Pricefil 500mg
   {
     id: 53,
     isAvailable: 1,
@@ -2175,6 +2285,8 @@ export const products = [
         "Pricefil 500mg merret nga goja. Ky ilaç është si çdo ilaç tjetër që duhet të merrni me recetë të mjekut tuaj. Ju nuk duhet ta rrisni dozën ose ta zvogëloni atë ose ta merrni pa recetë.",
     },
   },
+
+  //Pricefil 250mg/5ml
   {
     id: 54,
     isAvailable: 1,
@@ -2209,7 +2321,10 @@ export const products = [
         "Tundeni flakonin që të shkëputet pluhuri nga muret. Shtojini ujë deri te vija e zezë dhe tundeni fort derisa të formohet një solucion uniform. Para çdo përdorimi të tundet fort solucioni.  Ky ilaç është si çdo ilaç tjetër që duhet të merrni me recetë të mjekut tuaj.",
     },
   },
-  //pharmalead again (forgotten)
+
+  //PHARMALEAD  again (forgotten)
+
+  //Collagen
   {
     id: 55,
     isAvailable: 1,
@@ -2268,6 +2383,8 @@ export const products = [
         "25ml (një masë) 2 orë para gjumit. Mund të pjet direkt ose i përzier me lëngje të ndryshme si çaj, ujë, kos etj",
     },
   },
+
+  //Bon Appetite
   {
     id: 56,
     isAvailable: 1,
@@ -2300,6 +2417,8 @@ export const products = [
         "1 lugë gjelle 5 ml, 1-2 herë në ditë. Mos e tejkaloni dozën e rekomanduar.",
     },
   },
+
+  //Deo Roll-On
   {
     id: 57,
     isAvailable: 1,
@@ -2348,6 +2467,8 @@ export const products = [
    </ul>`,
     },
   },
+
+  //First Aid Gel
   {
     id: 58,
     isAvailable: 1,
@@ -2424,6 +2545,8 @@ export const products = [
    </ul>`,
     },
   },
+
+  //Hot Power Cream
   {
     id: 59,
     isAvailable: 1,
@@ -2468,6 +2591,8 @@ export const products = [
    </ul>`,
     },
   },
+
+  //Insect Repellent Spray
   {
     id: 60,
     isAvailable: 1,
@@ -2515,6 +2640,8 @@ export const products = [
    </ul>`,
     },
   },
+
+  //Krem Këmbësh
   {
     id: 61,
     isAvailable: 1,
