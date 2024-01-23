@@ -746,9 +746,8 @@ export const products = [
     imageAlt: "Lorem ipsum ....",
     fields: {
       Paketimi: "30 kapsula",
+      Përmbajtja: `<ul> <li><strong>&emsp;-	Ekstrakt Rodiola rosea 250 mg</strong></li> </ul> <br/>`,
       Përdorimi: "1 tabletë në ditë. Rekomandohet të merret pas vaktit",
-      Përmbajtja: `<ul> <li><strong>&emsp;-	Ekstrakt Rodiola rosea 250 mg</strong></li> </ul> <br/>
-      `,
       "Përbërës të tjerë": `Celuloza mikrokristaline, arbocel, stearat magnezi bimor, aerosil, kapsulë e fortë vegjetale.`,
       "Të dhëna për RHODIOLA": `     
             <p>
