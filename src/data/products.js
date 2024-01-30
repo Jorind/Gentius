@@ -740,7 +740,7 @@ export const products = [
   //Provio Max
   {
     id: 22,
-    isAvailable: 0,
+    isAvailable: 1,
     vendor: "superfood",
     rating: 3,
     topProduct: 0,
@@ -754,6 +754,73 @@ export const products = [
     imageSrc: "../images/products/proviomax.png",
     imageAlt:
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
+    fields: {
+      Paketimi: "15 kapsula",
+      "Udhëzimet e përdorimit":
+        "Rekomandohet të merret 30 minuta para ngrënies ose 2 orë pas marrjes së medikamenteve si antibiotikë.",
+      Dozimi: "1 kapsulë në ditë",
+      "Dozimi i përbërësve": `  <ul>
+        <li>-	Bifidobacterium bifidum 1x10^9</li>   
+        <li>-	Bifidobacterium lactis 1x10^9</li>      
+        <li>-	Lactobacillus acidophillus 1x10^9 </li>   
+        <li>-	Lactobacillus casei 1x10^9 </li>   
+        <li>-	Lactobacillus plantarum 1x10^9 </li>   
+        <li>-	Lactobacillus rhamnosus 1x10^9 </li>   
+        <li>-	Inulin </li>   
+        <li>-	Maltodekstrin </li>   
+        <li>-	Selen 55 mcg </li>   
+        <li>-	* % Vlera ditore</li>                  
+        </ul>`,
+
+      "Të dhëna për Proviomax": `     
+      <p>
+      <ul>
+       <li><strong>- Probiotikët përdoren për shëndetin e zorrëve</strong></li>   
+       <li><strong>- Proviomax përmban 6 lloje të ndryshme</strong></li>         
+       <li><strong>- 6 miliardë mikroorganizma për një kapsulë.</strong></li>          
+       <li><strong>- Me prebiotikë (inulinë) dhe selen</strong></li>         
+       <li><strong>- Për sistemin imunitar dhe shëndetin e zorrëve.</strong></li>  
+       <li><strong>- Kapsula të përshtatshme për vegjetarianë dhe veganë</strong></li>    
+       <li><strong>- Pa gluten dhe laktozë</strong></li>                      
+      </ul>
+      </p>
+      </br>
+      <p>
+      Superfoods Proviomax është një suplement dietik me probiotikë, prebiotikë dhe selen për shëndetin e tretjes dhe për sistemin imunitar. Ai përmban 6 shtame të ndryshme probiotike të familjeve lactobacillus, bifidus dhe 6 miliardë mikroorganizma për kapsulë. 
+      </br></br>
+      Probiotikët janë mikroorganizma të dobishme që gjënden natyrshëm në zorrë dhe ndihmojnë në ruajtjen e florës së sistemit tretës. Superfoods Proviomax përmban 6 shtame: Bifidobacterium bifidum, Bifidobacterium lactis, Lactobacillus acidophillus, Lactobacillus casei, Lactobacillus plantarum, Lactobacillus rhamnosus. 
+      </br></br>
+      Probiotikët sigurojnë ekuilibrin e florës së zorrëve, sidomos kur ajo është e shqetësuar p.sh. nga marrja e trajtimit me antibiotikë. Indikohet në rastet e diarresë dhe/ose kapsllëkut, duke forcuar funksionin psikologjik dhe mbrojtjen e organizmit.
+      </br></br>
+      Përveç kësaj, ai përmban inulin, një fibër prebiotike, e cila është "ushqimi" i baktereve probiotike. *
+      </br></br>
+      Përbërja e tij e përmirësuar me selen kontribuon në funksionimin normal të sistemit imunitar dhe mbrojtjen e nevojshme antioksiduese.
+      </br></br>
+
+
+      <em>
+      <small>
+      * Informacioni i mësipërm në lidhje me përbërësit e produktit është rezultat i studimeve. Ata nuk janë një opinion i EFSA-së.
+      </small>
+      </em>
+      </br></br>
+
+      Kapsula rezistente ndaj acidit të stomakut siguron lirimin e synuar të përbërësve në zorrën e hollë, duke maksimizuar kështu vetitë e tyre.
+      </p>
+    `,
+      "Të tjera": `          
+            Pa gluten / Pa laktozë / I përshtatshëm për veganët / I përshtatshëm për vegjetarianët<br/><br/>  
+            <em>
+              <small>
+                Suplementet dietike nuk duhet të përdoren si zëvendësim për një dietë të ekuilibruar. Mos e tejkaloni dozën e rekomanduar ditore. Ky produkt nuk ka për qëllim parandalimin, trajtimin ose shërimin e ndonjë sëmundjeje. Konsultohuni me mjekun tuaj nëse jeni shtatzënë, ushqeni me gji, merrni medikamente ose keni ndonjë problem shëndetësor. Mund të ketë ndërveprime dhe efekte anësore të mëtejshme nga ato të listuara. Rekomandimi i ofruesit të kujdesit shëndetësor ka përparësi ndaj informacionit në faqen e internetit.
+                <br/>
+                Gentius sh.p.k bën çdo përpjekje për të siguruar që informacioni dhe imazhet e produkteve të ofruara në faqen e internetit të jenë të sakta. Megjithatë, variacionet për shkak të ndryshimeve nga prodhuesi janë të mundshme. Ne ju rekomandojmë që të lexoni me kujdes etiketat, masat paraprake dhe udhëzimet e përdorimit të të gjitha produkteve përpara se t'i përdorni.
+              </small>
+            </em>
+           `,
+      Magazinimi: `Mbajeni produktin në një vend të thatë dhe të freskët deri në 25°C (77°F) dhe mbrojeni nga drita. Kushtet e papërshtatshme të ruajtjes, të tilla si ekspozimi i zgjatur në rrezet e diellit, temperatura e lartë, lagështia dhe kushtet e ngrirjes, mund të rezultojnë në ndryshime të produktit. </br></br> Mbajeni larg fëmijëve.`,
+    },
+    about: ``,
     relatedProducts: [2, 3],
   },
 
