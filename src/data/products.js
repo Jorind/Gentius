@@ -123,6 +123,7 @@ export const products = [
       Without: "Gluten, Natriumi, Sheqer, Laktoza",
     },
   },
+
   //CranbeCare
   {
     id: 3,
@@ -201,25 +202,60 @@ export const products = [
     </p>
       `,
     fields: {
-      Bottle: "300 ml",
-      Usage:
-        "50ml çdo ditë në 500ml ujë (rreth 2 gota), përgjatë ditës, për 6 ditë rresht.",
-      "Ingredients(for 50 ml)": `  <ul>
+      Paketimi: "Shishe 300 ml",
+      Dozimi: "50 ml në ditë të tretura në 500 ml ujë natyral",
+      "Udhëzimet e përdorimit": "Të konsumohet gjatë ditës.",
+      Magazinimi:
+        "Ruajeni produktin në një vend të thatë dhe të freskët deri në 25°C (77°F) dhe mbrojeni nga drita. Pas hapjes së produktit, ndiqni udhëzimet e ruajtjes në paketim për ruajtjen e tij optimale. </br> </br>Mbajeni larg fëmijëve",
+      "Sasia e servirjes": " 50ml",
+      "Shërbimi për enë": "6 porcione",
+      "Dozimi i përbërësve": `  <ul>
                         <li><strong>Luleradhiqe</strong> 275mg</li>   
-                        <li><strong>Mështekën</strong> 275mg</li>  
+                        <li><strong>Thupër</strong> 275mg</li>  
                         <li><strong>Çaji jeshil</strong> 275mg</li>  
-                        <li><strong>Angjinarja</strong> 91mg</li>                       
+                        <li><strong>Angjinare</strong> 91mg</li>                       
                       </ul>`,
-      Recommended: `
-        Për Detoksifikim </br>
-        Përgatitje për humbje peshe. </br>
-        Lehtësim nga fryrjet (për shkak të medikamenteve të caktuara të tilla si kontraceptivët, 
-          kortizon dhe pilulat anti-ankth)</br>
-        Gjak jo shumë të pasur dhe qarkullimi limfatik. </br>
-        Stres i lartë. </br>
-        Gratë gjatë menopauzës ose para menstruacioneve. </br>
-      	Një ndjenjë e përgjithshme e mirëqenies</br>      
-        `,
+      "Përbërës të tjerë":
+        " Ujë, sorbitol, aromë manaferrash, aromë luleshtrydhe të egër, acid citrik, sorbat kaliumi, çamçakëz xanthan, sukralozë",
+
+      Rekomanduar: `
+        Për të detoksifikuar dhe reduktuar mbajtjen e lëngjeve në organizëm.</br>
+        Përgatitja e trupit para humbjes së peshës. </br>`,
+
+      "Të dhëna për S DETOX 300ml": `   
+         
+        
+        <p>
+        <ul>
+        <li><strong>Me Taraxacum officinalis</strong></li>   
+        <li><strong>Betula pendula</strong></li>  
+        <li><strong>Camelia sinensis</strong></li>  
+        <li><strong>Cynara scomylus</strong></li>                       
+      </ul>
+        </p>
+        <p>
+          Superfoods S Detox është një suplement dietik për të detoksifikuar dhe reduktuar mbajtjen e lëngjeve me luleradhiqe, thupër, çaj jeshil dhe angjinare. </br><br/>
+          Përmban 4 përbërës bimorë të njohur për vetitë e tyre diuretike dhe antioksidante, të cilat ndihmojnë në detoksifikimin e trupit dhe reduktojnë mbajtjen e lëngjeve. Falë vetive diuretike dhe antioksidante të bimëve si thupra, çaji jeshil, angjinarja dhe luleradhiqe, ndihmon në eliminimin e toksinave nga trupi, si dhe në menaxhimin e peshës.</br><br/>
+          
+          Mështekna, në veçanti, rrit funksionin e limfave, një suplement ideal në fillim të një programi për humbje peshe dhe ofron mirëqenie dhe përtëritje.</br></br>
+          
+          Agjencia Evropiane e Barnave (EMA) dhe Komiteti për Mjekësi Bimore (HMPC) kanë miratuar përdorimin e rhodiola rosea 
+          si një preparat tradicional bimor afatshkurtër për lehtësim të përkohshëm nga simptomat e stresit si lodhja dhe dobësia.<br/><br/>
+
+          Agjencia Evropiane e Barnave (EMA) dhe Komiteti për Mjekësi Bimore (HMPC) kanë miratuar përdorimin e angjinareve si një preparat tradicional bimor për lehtësimin e dispepsisë dhe fryrjeve.</br></br>
+          I përshtatshëm për njerëzit në ankth , kanë momente në jete shumë të ngarkuar.</br></br>
+
+          Së fundi, rrënja e luleradhiqes kontribuon në funksionimin e duhur të veshkave.`,
+
+      "Të tjera": `
+            <em>
+              <small>
+                Suplementet dietike nuk duhet të përdoren si zëvendësim për një dietë të ekuilibruar. Mos e tejkaloni dozën e rekomanduar ditore. Ky produkt nuk ka për qëllim parandalimin, trajtimin ose shërimin e ndonjë sëmundjeje. Konsultohuni me mjekun tuaj nëse jeni shtatzënë, ushqeni me gji, merrni medikamente ose keni ndonjë problem shëndetësor. Mund të ketë ndërveprime dhe efekte anësore të mëtejshme nga ato të listuara. Rekomandimi i ofruesit të kujdesit shëndetësor ka përparësi ndaj informacionit në faqen e internetit.
+                <br/>
+                Gentius sh.p.k bën çdo përpjekje për të siguruar që informacioni dhe imazhet e produkteve të ofruara në faqen e internetit të jenë të sakta. Megjithatë, variacionet për shkak të ndryshimeve nga prodhuesi janë të mundshme. Ne ju rekomandojmë që të lexoni me kujdes etiketat, masat paraprake dhe udhëzimet e përdorimit të të gjitha produkteve përpara se t'i përdorni.
+              </small>
+            </em>
+           `,
     },
   },
 
