@@ -747,50 +747,42 @@ export const products = [
     fields: {
       Paketimi: "30 kapsula",
       Përmbajtja: `<ul> <li><strong>&emsp;-	Ekstrakt Rodiola rosea 250 mg</strong></li> </ul> <br/>`,
-      Përdorimi: "1 tabletë në ditë. Rekomandohet të merret pas vaktit",
+      Dozimi: "1 kapsulë në ditë",
       "Përbërës të tjerë": `Celuloza mikrokristaline, arbocel, stearat magnezi bimor, aerosil, kapsulë e fortë vegjetale.`,
+      "Udhëzimet e përdorimit": "Rekomandohet të merret pas vaktit",
+      Rekomandohet: `<ul> 
+                        <li><strong>&emsp;-	Për stresin </strong></li> 
+                        <li><strong>&emsp;-	Mbështet përqendrimin dhe performancën shpirtërore</strong></li> 
+                        <li><strong>&emsp;-	I përshtatshëm për vegjetarianët dhe veganët</strong></li> 
+                        <li><strong>&emsp;-	Pa gluten, natrium, sheqerna, laktozë, soje</strong></li> 
+                        <li><strong>&emsp;-	Kontribuon në qëndrueshmërinë, energjinë dhe tonifikimin e trupit</strong></li>
+                        </ul><br/>`,
       "Të dhëna për RHODIOLA": `     
-            <p>
-              Superfoods Rodiola është një suplement dietik që përmban ekstrakt natyral të Rodiolës me një sasi konstante rozavine 
-              për kapsulë, përbërësi bimor i njohur për vetitë e tij të dobishme adaptive. </br>
-              Ndihmon trupin të përshtatet me kërkesat e ndryshme mendore dhe fizike dhe ndihmon në përballimin e stresit.</br>
-              <br/>
-              Agjencia Evropiane e Barnave (EMA) dhe Komiteti për Mjekësi Bimore (HMPC) kanë miratuar përdorimin e rhodiola rosea 
-              si një preparat tradicional bimor afatshkurtër për lehtësim të përkohshëm nga simptomat e stresit si lodhja dhe dobësia.
+      <p>
+        Superfoods Rodiola është një suplement dietik që përmban ekstrakt natyral të Rodiolës me një sasi konstante rozavine 
+        për kapsulë, përbërësi bimor i njohur për vetitë e tij të dobishme adaptive. </br>
+        Ndihmon trupin të përshtatet me kërkesat e ndryshme mendore dhe fizike dhe ndihmon në përballimin e stresit.</br>
+        <br/>
+        Agjencia Evropiane e Barnave (EMA) dhe Komiteti për Mjekësi Bimore (HMPC) kanë miratuar përdorimin e rhodiola rosea 
+        si një preparat tradicional bimor afatshkurtër për lehtësim të përkohshëm nga simptomat e stresit si lodhja dhe dobësia.
 
-              <br/>
-              <br/>
-              I përshtatshëm për njerëzit në ankth , kanë momente në jete shumë të ngarkuar.
-              <br/>
-              <br/>
-              Mbajeni larg fëmijëve.
-            </p>
-            </br>
-            <p>
-                Rezultate të dukshme në vetëm 7 deri në 10 ditë.
-            </p>
-        `,
+        <br/>
+        <br/>
+        I përshtatshëm për njerëzit në ankth , kanë momente në jete shumë të ngarkuar.
+  `,
       "Të tjera": `
           Mbajeni larg fëmijëve. <br/><br/>
           Pa gluten / Pa laktozë / I përshtatshëm për veganët / I përshtatshëm për vegjetarianët<br/><br/>
 
           <em>
-            Suplementet dietike nuk duhet të përdoren si zëvendësim për një dietë të ekuilibruar. Mos e tejkaloni dozën e rekomanduar ditore. Ky produkt nuk ka për qëllim parandalimin, trajtimin ose shërimin e ndonjë sëmundjeje. Konsultohuni me mjekun tuaj nëse jeni shtatzënë, ushqeni me gji, merrni medikamente ose keni ndonjë problem shëndetësor. Mund të ketë ndërveprime dhe efekte anësore të mëtejshme nga ato të listuara. Rekomandimi i ofruesit të kujdesit shëndetësor ka përparësi ndaj informacionit në faqen e internetit.
-            <br/>
-            Gentius sh.p.k bën çdo përpjekje për të siguruar që informacioni dhe imazhet e produkteve të ofruara në faqen e internetit të jenë të sakta. Megjithatë, variacionet për shkak të ndryshimeve nga prodhuesi janë të mundshme. Ne ju rekomandojmë që të lexoni me kujdes etiketat, masat paraprake dhe udhëzimet e përdorimit të të gjitha produkteve përpara se t'i përdorni.
+            <small>
+              Suplementet dietike nuk duhet të përdoren si zëvendësim për një dietë të ekuilibruar. Mos e tejkaloni dozën e rekomanduar ditore. Ky produkt nuk ka për qëllim parandalimin, trajtimin ose shërimin e ndonjë sëmundjeje. Konsultohuni me mjekun tuaj nëse jeni shtatzënë, ushqeni me gji, merrni medikamente ose keni ndonjë problem shëndetësor. Mund të ketë ndërveprime dhe efekte anësore të mëtejshme nga ato të listuara. Rekomandimi i ofruesit të kujdesit shëndetësor ka përparësi ndaj informacionit në faqen e internetit.
+              <br/>
+              Gentius sh.p.k bën çdo përpjekje për të siguruar që informacioni dhe imazhet e produkteve të ofruara në faqen e internetit të jenë të sakta. Megjithatë, variacionet për shkak të ndryshimeve nga prodhuesi janë të mundshme. Ne ju rekomandojmë që të lexoni me kujdes etiketat, masat paraprake dhe udhëzimet e përdorimit të të gjitha produkteve përpara se t'i përdorni.
+            </small>
           </em>
          `,
-      Magazinimi: `
-        Mbajeni produktin në një vend të thatë dhe të freskët deri në 25°C (77°F) dhe mbrojeni nga drita. Kushtet e papërshtatshme të ruajtjes, të tilla si ekspozimi i zgjatur në rrezet e diellit, temperatura e lartë, lagështia dhe kushtet e ngrirjes, mund të rezultojnë në ndryshime të produktit.
-        `,
-      Rekomandohet: `<ul> 
-          <li><strong>&emsp;-	Për stresin </strong></li> 
-          <li><strong>&emsp;-	Mbështet përqendrimin dhe performancën shpirtërore</strong></li> 
-          <li><strong>&emsp;-	Kontribuon në qëndrueshmërinë, energjinë dhe tonifikimin e trupit</strong></li> 
-          <li><strong>&emsp;-	I përshtatshëm për vegjetarianët dhe veganët</strong></li> 
-          <li><strong>&emsp;-	Pa gluten, natrium, sheqerna, laktozë, soje</strong></li> 
-        </ul> 
-        <br/>`,
+      Magazinimi: `Mbajeni produktin në një vend të thatë dhe të freskët deri në 25°C (77°F) dhe mbrojeni nga drita. Kushtet e papërshtatshme të ruajtjes, të tilla si ekspozimi i zgjatur në rrezet e diellit, temperatura e lartë, lagështia dhe kushtet e ngrirjes, mund të rezultojnë në ndryshime të produktit.`,
     },
     about: ``,
     relatedProducts: [2, 3],

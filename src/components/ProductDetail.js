@@ -44,7 +44,7 @@ function classNames(...classes) {
 
 export default function ProductDetail(productId) {
   var product = products.filter(
-    (item) => item.id.toString() === productId.productId,
+    (item) => item.id.toString() === productId.productId
   )[0];
 
   var related =
@@ -109,7 +109,7 @@ export default function ProductDetail(productId) {
                                 tab.current
                                   ? "border-pink-500 text-gray-900"
                                   : "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300",
-                                "whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm",
+                                "whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm"
                               )}
                               aria-current={tab.current ? "page" : undefined}
                             >
@@ -121,7 +121,7 @@ export default function ProductDetail(productId) {
                     </div>
                   </div>
 
-                  {/* Description list */}
+                  {/* Description list - FIELDS */}
                   <div className="mt-6 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
                     <dl className="grid grid-cols-1 gap-x-4 gap-y-8 sm:grid-cols-2">
                       {Object.keys(product.fields).map((field) => (
@@ -137,6 +137,8 @@ export default function ProductDetail(productId) {
                           ></dd>
                         </div>
                       ))}
+
+                      {/* About */}
                       <div className="sm:col-span-2">
                         <dt className="text-sm font-medium text-gray-500">
                           About
